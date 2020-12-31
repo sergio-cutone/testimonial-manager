@@ -1,0 +1,17 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ #testi-display-option,
+ #testi-slider-option{
+ 	padding: 15px 10px;
+ }
+
+#poststuff{
+	width: 100%;
+}
+ #TB_ajaxContent {
+ 	max-width:100% !important;
+ 	padding:0;
+ }
